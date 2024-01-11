@@ -6,7 +6,6 @@ import TrendingComp from './Components/TrendingComp';
 import WatchComp from './Components/WatchComp';
 import Releases from './Components/Releases';
 import FooterComp from './Components/FooterComp';
-import GalleryComp1 from './Components/GalleryComp1';
 
 function App() {
   return (
@@ -19,7 +18,6 @@ function App() {
         <TrendingComp/>
         <WatchComp/>
         <Releases/>
-        <GalleryComp1/>
       </main>
       <footer>
         <FooterComp/>
